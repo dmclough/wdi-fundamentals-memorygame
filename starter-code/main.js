@@ -1,1 +1,6 @@
-console.log("JS file is connected to HTML! Woo!")
+//initial definitions
+
+var cardOne = "king";
+var cardTwo = "king";
+var cardThree = "queen";
+var cardFour = "queen";
